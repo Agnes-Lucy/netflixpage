@@ -5,7 +5,7 @@ body{
     font-size: 25px;
 }
 div.first{
-    background-image: url("netflix.jpg");
+    background:linear-gradient(to top, rgba(0,0,0,0), rgba(0,0,0,5)), url("netflix.jpg");
     background-size: cover;
     background-attachment: fixed;
     height: 800px;
